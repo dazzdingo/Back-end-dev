@@ -9,6 +9,11 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.4",
         "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "mocha": "^9.1.2"
     }
 }
